@@ -1,0 +1,73 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    
+}
+.logobody{
+    width: 400px;
+    height: 400px;
+    margin: auto;
+    margin-top: 20vh;
+    position: relative;
+    rotate: -45deg;
+}
+.logobody1{
+    width: 400px;
+    height:50px;
+    background-color: rgba(100, 242, 135, 0.623);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.logobody2{
+    width: 50px;
+    height:400px;
+    background-color: rgba(255, 94, 14, 0.793);
+    position: absolute;
+    top: 0px;
+    right: 0;
+}  
+.logobody3{
+    width: 50px;
+    height:400px;
+    background-color: rgba(68, 159, 239, 0.689);
+    position: absolute;
+    top: 0px;
+    left: 0;
+}
+.logobody4{
+    width: 400px;
+    height:50px;
+    background-color: rgba(134, 141, 147, 0.697);
+    position: absolute;
+    left: 0px;
+    bottom:0px;
+}
+h1{
+    color: #FFF;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    position: absolute;
+    top: 150px;
+    left: 70px;
+    rotate: 45deg;
+}
+span{
+    color: rgb(233, 91, 30);
+}
+p{
+    color: #FFF;
+    font-size: 25px;
+    font-weight: 500;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative;
+    rotate: 45deg;
+    top: 190px;
+    left:0px;
+    text-align: center;
+}
